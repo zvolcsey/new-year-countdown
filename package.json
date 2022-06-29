@@ -1,0 +1,22 @@
+{
+  "name": "new-year-countdown",
+  "version": "1.0.0",
+  "description": "It is a course project from 20 Web Projects With Vanilla JavaScript Udemy course by Brad Traversy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvolcsey/new-year-countdown.git"
+  },
+  "keywords": [
+    "new-year-countdown",
+    "js"
+  ],
+  "author": "Zoltán Völcsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zvolcsey/new-year-countdown/issues"
+  },
+  "homepage": "https://github.com/zvolcsey/new-year-countdown#readme"
+}
