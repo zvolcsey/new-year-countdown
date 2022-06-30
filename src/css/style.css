@@ -44,8 +44,18 @@ h1 {
   margin: -5rem 0 2.5rem;
 }
 
+.year {
+  font-size: 12.5rem;
+  z-index: -1;
+  opacity: 0.2;
+  position: absolute;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .countdown {
-  display: flex;
+  display: none;
   transform: scale(2);
 }
 
